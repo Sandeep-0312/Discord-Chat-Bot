@@ -1,0 +1,68 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hello! How can I assist you today?"
+    },
+    {
+      "question": "who are you",
+      "answer": "I'm your friendly Discord bot, here to help with anything you need!"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great, thank you! How about you?"
+    },
+    {
+      "question": "what are you doing?",
+      "answer": "I'm here, ready to assist you with any questions or tasks you have!"
+    },
+    {
+      "question": "what's your name?",
+      "answer": "I'm Bot, your virtual assistant."
+    },
+    {
+      "question": "what's the weather like?",
+      "answer": "I'm not sure, but you can check a weather app or website for the latest updates!"
+    },
+    {
+      "question": "how old are you?",
+      "answer": "I was created quite recently, but I'm learning new things every day!"
+    },
+    {
+      "question": "can you help me with my homework?",
+      "answer": "Ever learned of self study!"
+    },
+    {
+      "question": "what's your favorite color?",
+      "answer": "I like all colors equally, but I think blue is pretty cool!"
+    },
+    {
+      "question": "who created you?",
+      "answer": "I was created by a two individuals"
+    },
+    {
+      "question": "what's your purpose?",
+      "answer": "My purpose is to assist you with information, tasks, and to make your experience enjoyable!"
+    },
+    {
+      "question": "do you have any hobbies?",
+      "answer": "I enjoy learning new things and helping people with their queries!"
+    },
+    {
+      "question": "HI",
+      "answer": "HI"
+    },
+    {
+      "question": "how can u be of service?",
+      "answer": "Im here to help with anything you need!!"
+    },
+    {
+      "question": "who is pooja",
+      "answer": "she is a girl"
+    },
+    {
+      "question": "yo buddy",
+      "answer": "Hey,mate!!"
+    }
+  ]
+}
